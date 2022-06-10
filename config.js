@@ -1,3 +1,3 @@
 module.exports = {
-  baseUrl: 'http://hn216.api.yesapi.cn/',
+  baseUrl: 'https://hn216.api.yesapi.cn/',
 }
